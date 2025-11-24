@@ -32,3 +32,4 @@ hours = int(input("\nEnter study hours to predict marks: "))
 predicted_marks = m * hours + c
 print(f"Predicted marks for {hours} hours of study = {predicted_marks}")
 
+
